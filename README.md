@@ -1,1 +1,1 @@
-This the 'Sentimantal prediction' project
+This is 'Sentimantal prediction' project
